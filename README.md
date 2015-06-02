@@ -1,2 +1,2 @@
 # Portfolio
-Public portfolio for coding endeavors.
+Public portfolio for coding endeavors by Yoeri Godfried.
